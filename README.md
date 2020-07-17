@@ -1,8 +1,44 @@
-:man_technologist: Hi there 👋
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lflucasferreira)](https://github.com/lflucasferreira)
 [![GitLab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=GitLab&logoColor=orange&link=https://gitlab.com/lflucasferreira)](https://gitlab.com/lflucasferreira)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lflucasferreira)](https://dev.to/lflucasferreira)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13920529)](https://stackoverflow.com/users/13920529)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lflucasferreira/)](https://www.linkedin.com/in/lflucasferreira/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lflucasferreira)](https://twitter.com/lflucasferreira)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lflucasferreira)
+[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/lflucasferreira)
+[<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
+[<img src="https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13920529)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lflucasferreira)
+[<img src="https://img.shields.io/badge/medium-%03a57a.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/lflucasferreira)
+
+
+**AboutMe.rb**
+```ruby
+class About < Me
+  def current_workplace
+    workplace = {
+      company: 'Stefanini Brazil',
+      position: 'QA Engineer'
+    }.freeze
+  end
+  
+  def current_daily_tools
+    tools = %w[
+      Ruby
+      Docker
+      Jenkins
+      Python
+      Selenium
+      Testing
+    ]
+  end
+  
+  def future_goal
+    'To find better ways to spread knowledge worldwide'
+  end
+end
+```
+
+
+
+
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lflucasferreira&show_icons=true&hide=["stars","prs"])
