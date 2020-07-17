@@ -1,8 +1,5 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lflucasferreira)](https://github.com/lflucasferreira)
-[![GitLab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=GitLab&logoColor=orange&link=https://gitlab.com/lflucasferreira)](https://gitlab.com/lflucasferreira)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lflucasferreira)](https://dev.to/lflucasferreira)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lflucasferreira)
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/lflucasferreira)
 [<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
