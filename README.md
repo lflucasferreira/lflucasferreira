@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
 [<img src="https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13920529)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lflucasferreira)
-[<img src="https://img.shields.io/badge/medium-%03a57a.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/lflucasferreira)
+[<img src="https://img.shields.io/badge/medium-%03a57a.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lflucasferreira)
 
 
 **AboutMe.rb**
