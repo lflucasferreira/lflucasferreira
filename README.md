@@ -36,8 +36,5 @@ end
 ```
 
 
-
-
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lflucasferreira&show_icons=true&hide=["stars","prs"])
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lflucasferreira)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lflucasferreira&theme=dark&show_icons=true&hide=stars,prs&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lflucasferreira&layout=compact&hide=html&theme=dark" />
