@@ -1,6 +1,7 @@
 # Hi there, I'm Lucas Ferreira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/lflucasferreira)
+ 
 
 
 **AboutMe.rb**
