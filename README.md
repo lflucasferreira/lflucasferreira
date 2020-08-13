@@ -1,10 +1,9 @@
 # Hi there, I'm Lucas Ferreira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
-[<img src="https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13920529)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />>](https://linkedin.com/in/lflucasferreira)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />](https://medium.com/@lflucasferreira)
-
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/13920529)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/lflucasferreira)
 
 **AboutMe.rb**
 ```ruby
