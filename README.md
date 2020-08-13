@@ -1,9 +1,5 @@
 # Hi there, I'm Lucas Ferreira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-
-
-
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lflucasferreira)
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/lflucasferreira)
 [<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
 [<img src="https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13920529)
