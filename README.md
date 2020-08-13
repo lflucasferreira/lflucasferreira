@@ -6,6 +6,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/13920529)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/lflucasferreira) 
 
+<br>
 
 ## **AboutMe.rb**
 
