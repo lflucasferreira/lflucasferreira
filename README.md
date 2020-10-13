@@ -12,7 +12,7 @@
 class About < Me
   def current_workplace
     workplace = {
-      company: 'Stefanini Brazil',
+      company: 'CI&T',
       position: 'QA Engineer'
     }.freeze
   end
