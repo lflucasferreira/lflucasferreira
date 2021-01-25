@@ -1,10 +1,11 @@
 # Hi there, I'm Lucas Ferreira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/lflucasferreira)
-[<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
-[<img src="https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13920529)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lflucasferreira)
-[<img src="https://img.shields.io/badge/medium-%03a57a.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lflucasferreira)
+[![Gitlab Badge](https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lflucasferreira)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lflucasferreira)
+[![StackOverFlow Badge](https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13920529)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://murewaashiru.hashnode.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lflucasferreira)
+[![Medium](https://img.shields.io/badge/medium-%03a57a.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lflucasferreira)
 
 **AboutMe.rb**
 
