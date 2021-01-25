@@ -3,7 +3,7 @@
 [![Gitlab Badge](https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lflucasferreira)
 [![StackOverFlow Badge](https://img.shields.io/badge/stackoverflow-%4CA143.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13920529)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lflucasferreira)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lucasferreira.hashnode.dev/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lucas.hashnode.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lflucasferreira)
 [![Medium](https://img.shields.io/badge/medium-%03a57a.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lflucasferreira)
 
