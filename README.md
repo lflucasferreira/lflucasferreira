@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Ferreira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there, I'm Lucas Ferreira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/lflucasferreira)
 [<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/lflucasferreira)
@@ -36,3 +36,5 @@ end
 
 <img width="427px" align="left" src="https://github-readme-stats.vercel.app/api?username=lflucasferreira&theme=dark&show_icons=true&hide=stars,prs&count_private=true" />
 <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lflucasferreira&layout=compact&hide=html&theme=dark" />
+
+![](https://visitor-badge.glitch.me/badge?page_id=lflucasferreira.lflucasferreira)
