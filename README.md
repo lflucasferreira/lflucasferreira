@@ -26,7 +26,10 @@ class About < Me
   def testing
     {
       javascript: ["Cypress", "Postman", "Jest"],
-      ruby: ["Cucumber", "RSpec", "Capybara", "SitePrism", "Nokogiri", "Faker", "FactoryBot", "HTTParty", "RestClient", "Appium"],
+      ruby: [
+              "Cucumber", "RSpec", "Capybara", "SitePrism", "Nokogiri", 
+              "Faker", "FactoryBot", "HTTParty", "RestClient", "Appium"
+      ],
       java: ["Rest Arrured"],
       cli: ["SSH", "cURL", "Newman", "HTTPie"]
     }
