@@ -12,25 +12,31 @@
 ```ruby
 class About < Me
   def current_workplace
-    workplace = {
+    {
       company: 'CI&T',
-      position: 'QA Engineer'
+      position: 'QA Engineer',
+      country: 'Brazil'
     }.freeze
   end
   
-  def current_daily_tools
-    tools = %w[
-      Ruby
-      Docker
-      Jenkins
-      Python
-      Selenium
-      Testing
-    ]
+  def programming
+    %w[JavaScript Ruby Python Java]
   end
   
-  def future_goal
-    'To find better ways to spread knowledge worldwide'
+  def testing
+    {
+      javascript: ["Cypress", "Postman", "Jest"],
+      ruby: ["Cucumber", "RSpec", "Capybara", "SitePrism", "Nokogiri", "Faker", "FactoryBot", "HTTParty", "RestClient", "Appium"],
+      java: ["Rest Arrured"],
+      cli: ["SSH", "cURL", "Newman", "HTTPie"]
+    }
+  end
+  
+  def devops
+    %w[Docker Jenkins Travis Git SonarQube RabbitMQ]
+  
+  def databases
+    %w[MongoDB Redis MSSQL MySQL PostgreSQL Oracle]
   end
 end
 ```
