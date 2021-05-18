@@ -27,8 +27,8 @@ class About < Me
     {
       javascript: ["Cypress", "Postman", "Jest"],
       ruby: [
-              "Cucumber", "RSpec", "Capybara", "SitePrism", "Nokogiri", 
-              "Faker", "FactoryBot", "HTTParty", "RestClient", "Appium"
+        "Cucumber", "RSpec", "Capybara", "SitePrism", "Nokogiri", 
+        "Faker", "FactoryBot", "HTTParty", "RestClient", "Appium"
       ],
       java: ["Rest Arrured"],
       cli: ["SSH", "cURL", "Newman", "HTTPie"]
