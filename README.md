@@ -13,8 +13,8 @@
 class About < Me
   def current_workplace
     {
-      company: 'CI&T',
-      position: 'QA Engineer',
+      company: 'Questrade Finantial Group',
+      position: 'Senior QA Engineer',
       country: 'Brazil'
     }.freeze
   end
