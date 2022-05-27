@@ -44,9 +44,9 @@
   <a href="https://dev.to/lflucasferreira">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV" />
   </a>
-  <a href="https://gitlab.com/lflucasferreira">
+<!--   <a href="https://gitlab.com/lflucasferreira">
     <img src="https://img.shields.io/badge/gitlab-white.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
+  </a> -->
   <a href="https://lucas.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
@@ -66,7 +66,7 @@
 
 ---
 
-<!-- **AboutMe.rb**
+**AboutMe.rb**
 
 ```ruby
 class About < Me
@@ -101,6 +101,6 @@ class About < Me
     %w[MongoDB Redis MSSQL MySQL PostgreSQL Oracle]
   end
 end
-``` -->
+```
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lflucasferreira.lflucasferreira)
