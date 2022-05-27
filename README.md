@@ -20,18 +20,20 @@
 
 ---
 
-<!-- <h2 align='center'>Languages I've worked with</h2>
+<h2 align='center'>Languages over All Time</h2>
 
 <p align='center'>
-  <img src="https://wakatime.com/share/@murtuzaalisurti/c83fa1b8-c978-4caf-94c5-2ac8d76b861f.svg" style="width: 70%; height= auto;" />
+  <img src="https://wakatime.com/share/@lflucasferreira/37231cd2-cca0-46ff-a302-1f272bca69a6.svg" style="width: 70%; height= auto;" />
 </p>
 
 <div>
   <h1 align="center">Coding Time</h1>
-  <p align="center"><a href="https://wakatime.com/@0112ced1-d1d0-499a-800d-64371513f9c6"><img src="https://wakatime.com/badge/user/0112ced1-d1d0-499a-800d-64371513f9c6.svg" alt="Total time coded since Jan 13 2022" /></a></p>
+  <p align="center">
+    <a href="https://wakatime.com/@309ce27e-6230-4b91-8f7e-34ec51c0f781"><img src="https://wakatime.com/badge/user/309ce27e-6230-4b91-8f7e-34ec51c0f781.svg" alt="Total time coded since Nov 18 2019" /></a>
+  <p>
 </div>
 
---- -->
+---
 
 [![Lucas's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lflucasferreira&theme=react-dark)](https://github.com/lflucasferreira)
 
@@ -39,10 +41,14 @@
 
 <h2 align='center'>Top Repositories</h2>
 
-<p align='center'><a href="https://github.com/lflucasferreira">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lflucasferreira&theme=dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=lflucasferreira&theme=black-ice" />
-</a></p>
+<p align='center'>
+  <a href="https://github.com/lflucasferreira/qametrics">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lflucasferreira&repo=qametrics&theme=github_dark" />
+  </a>
+  <a href="https://github.com/lflucasferreira/cypress">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lflucasferreira&repo=cypress&theme=github_dark" />
+  </a>
+</p>
 
 ---
 
