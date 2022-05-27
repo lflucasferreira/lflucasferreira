@@ -37,9 +37,21 @@
 
 ---
 
+<h2 align='center'>Top Repositories</h2>
+
+<p align='center'><a href="https://github.com/lflucasferreira">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lflucasferreira&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=lflucasferreira&theme=black-ice" />
+</a></p>
+
+---
+
 <p align="center">
-  <a href="https://codepen.io/lflucasferreira">
+<!--   <a href="https://codepen.io/lflucasferreira">
     <img src="https://img.shields.io/badge/codepen-purple.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a> -->
+  <a href="https://codesandbox.io/u/lflucasferreira">
+    <img src="https://img.shields.io/badge/codesandbox-yellow.svg?&style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandBox"/>
   </a>
   <a href="https://dev.to/lflucasferreira">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV" />
