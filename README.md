@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">&nbsp;&nbsp;Hey, Lucas here!</h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40">&nbsp;&nbsp;Hey, Lucas here!</h1>
 <p align='center'><em><b>Quality Assurance Enginer</b>, looking forward to be a <b>QA Leader</b>!</em></p>
 
 ---
