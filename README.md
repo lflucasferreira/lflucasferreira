@@ -12,17 +12,29 @@
   <a href="https://linkedin.com/in/lflucasferreira">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/13920529">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://dev.to/lflucasferreira">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://lucas.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://medium.com/@lflucasferreira">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/13920529">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
+  &nbsp;
+  <a href="https://twitter.com/lflucasferreira">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codesandbox.io/u/lflucasferreira">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=flat-square&logo=codesandbox&logoColor=white" />
   </a>
 </p>
 
@@ -142,15 +154,10 @@ $ npx lflucasferreira
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lflucasferreira&theme=dark&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=lflucasferreira&theme=dark&hide_border=true" />
+  <a href="https://github.com/lflucasferreira">
+    <img width="100%" src="https://ghchart.rshah.org/lflucasferreira" alt="GitHub Contribution Graph" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lflucasferreira&theme=dark&layout=compact&langs_count=8&hide=html,css,shell&hide_border=true" />
-</p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lflucasferreira&theme=react-dark&hide_border=true)](https://github.com/lflucasferreira)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lflucasferreira&color=blueviolet&style=flat-square" alt="Profile views" />
