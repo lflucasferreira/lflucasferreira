@@ -70,6 +70,7 @@ I make quality measurable beyond the dev team: Grafana dashboards, Datadog monit
 | [testflow-cypress](https://github.com/lflucasferreira/testflow-cypress) | Cypress suite with tag-based filtering, a11y, visual regression, and Cypress Cloud | Cypress |
 | [testflow-playwright](https://github.com/lflucasferreira/testflow-playwright) | Full E2E, API, visual, and accessibility coverage across Chromium, Firefox, and WebKit | Playwright · TypeScript |
 | [testflow-k6](https://github.com/lflucasferreira/testflow-k6) | Performance suite — smoke, load, stress, soak, spike with SLO gates enforced as code · [Live report ↗](https://lflucasferreira.github.io/testflow-k6/report/) | k6 |
+| [testflow-pytest](https://github.com/lflucasferreira/testflow-pytest) | Python E2E and API automation with traceable test case IDs across 12 suites | pytest · Playwright |
 | [testflow-pact](https://github.com/lflucasferreira/testflow-pact) | Contract testing with Pact Broker — consumer/provider flows for microservices | Pact.js |
 | [metriks](https://github.com/lflucasferreira/metriks) | AI-powered QA metrics platform — anomaly detection, failure prediction, risk scoring | Python · FastAPI · scikit-learn |
 | [TestFlow](https://github.com/qaschoolbr/testflow) | QA training sandbox with interactive labs, mock APIs, and 500+ interview Q&A (EN/PT) | Node.js · Express |
@@ -168,13 +169,15 @@ $ npx lflucasferreira
 
 ---
 
-## GitHub Stats
+## Contributions
 
 <p align="center">
   <a href="https://github.com/lflucasferreira">
     <img width="100%" src="https://ghchart.rshah.org/lflucasferreira" alt="GitHub Contribution Graph" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <a href="https://stackoverflow.com/users/13920529">
